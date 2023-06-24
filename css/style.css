@@ -402,7 +402,7 @@ h4 {
         height: 28%;
 }
 
-@media(max-width:350px){
+@media(max-width:370px){
 	.container{
 		margin: 0 3rem;
 	}
